@@ -22,6 +22,7 @@ As you can see, ATtyni13A is used only as a controller of 1 N-channel MOSFET, th
 
 
 
+
 ## Referances
 <a name="solution">1</a>: Home Circuits Blog - [Low power (5microA) ATtiny13A](https://homecircuits.eu/blog/low-power-picopower-attiny13a/)
 
